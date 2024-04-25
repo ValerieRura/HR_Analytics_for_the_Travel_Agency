@@ -15,3 +15,9 @@ The HR Director has conducted a survey among the staff and provided the resultin
 - **Demographic Analysis**: Investigate whether employee age correlates with the likelihood of leaving the company.
 - **Tenure Analysis**: Examine the impact of the length of employment on employee retention.
 - **Income Analysis**: Analyze how salary levels affect employee turnover rates.
+
+## Usage
+To use the dashboard:
+1. Click on the provided link to access the Tableau Public website.
+2. Navigate through various analytics tabs to explore different data insights.
+3. Utilize filters and controls to customize the data display according to specific needs or inquiries.
